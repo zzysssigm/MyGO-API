@@ -1,4 +1,9 @@
-# MYGO圖包API
+# 感谢原作者
+我做了一些简单的改动（添加指向图片资源的接口），同时上传了大概1000张张vv老师的表情包在/vv_image里
+
+于是我们现在可以调用这个api来搜索vv表情包了
+
+原readme如下：
 
 你願意一輩子跟我一起MyGo嗎？
 [API Swagger Docs](https://mygoapi.miyago9267.com/docs)
